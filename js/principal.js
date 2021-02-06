@@ -106,8 +106,8 @@ function inicio(){
                     listaItem.id="book-" + idBook
             
                     $('.lido').hide()
-                    $('.lendo').hide() 
-                    $('.queroLer').hide()
+                    $('.estou-lendo').hide() 
+                    $('.quero-ler').hide()
                     $(".resultado-pesquisa").append(listaItem)
                 
               
